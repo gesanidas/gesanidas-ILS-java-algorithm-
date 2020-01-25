@@ -1,0 +1,11 @@
+
+Tour 0
+ID: 0 Name: Start Opening: 0.0 Closing: 230.0 Score: 0.0 Wait: 0.0 Max Shift: 0.0 Shift: 0.0 Ratio: 0.0 Arrival: 0.0 Start: 0.0 Leave: 0.0 X: 35.0 Y: 35.0 Stay Duration: 0.0Cluster :0
+ID: 59 Name: Loc59 Opening: 18.0 Closing: 28.0 Score: 28.0 Wait: 0.19550618523514274 Max Shift: 10.0 Shift: 45.804493814764854 Ratio: 0.11552365677324637 Arrival: 17.804493814764857 Start: 18.0 Leave: 28.0 X: 21.0 Y: 24.0 Stay Duration: 10.0Cluster :0
+ID: 95 Name: Loc95 Opening: 39.0 Closing: 49.0 Score: 20.0 Wait: 7.0 Max Shift: 10.0 Shift: 18.06157493255365 Ratio: 0.24760498304824644 Arrival: 32.0 Start: 39.0 Leave: 49.0 X: 25.0 Y: 24.0 Stay Duration: 10.0Cluster :0
+ID: 44 Name: Loc44 Opening: 69.0 Closing: 79.0 Score: 18.0 Wait: 2.7953494659147395 Max Shift: 10.0 Shift: 30.214436674763707 Ratio: 0.14041766632250027 Arrival: 66.20465053408526 Start: 69.0 Leave: 79.0 X: 11.0 Y: 14.0 Stay Duration: 10.0Cluster :0
+ID: 85 Name: Loc85 Opening: 91.0 Closing: 101.0 Score: 41.0 Wait: 32.78045554270712 Max Shift: 10.0 Shift: 0.0 Ratio: 0.10644258952113507 Arrival: 58.21954445729288 Start: 91.0 Leave: 101.0 X: 16.0 Y: 22.0 Stay Duration: 10.0Cluster :0
+ID: 26 Name: Loc26 Opening: 132.0 Closing: 142.0 Score: 17.0 Wait: 0.9167820870173387 Max Shift: 10.0 Shift: 29.158611021056256 Ratio: 0.14140267595875022 Arrival: 131.08321791298266 Start: 132.0 Leave: 142.0 X: 45.0 Y: 30.0 Stay Duration: 10.0Cluster :0
+ID: 13 Name: Loc13 Opening: 159.0 Closing: 169.0 Score: 23.0 Wait: 1.1886116991581162 Max Shift: 10.0 Shift: 27.00000000000001 Ratio: 0.17762338975232286 Arrival: 157.81138830084188 Start: 159.0 Leave: 169.0 X: 30.0 Y: 25.0 Stay Duration: 10.0Cluster :0
+ID: 93 Name: Loc93 Opening: 188.0 Closing: 198.0 Score: 22.0 Wait: 6.958405421207715 Max Shift: 10.0 Shift: 38.06811684381765 Ratio: 0.12321113174751548 Arrival: 181.04159457879229 Start: 188.0 Leave: 198.0 X: 18.0 Y: 24.0 Stay Duration: 10.0Cluster :0
+ID: 101 Name: End Opening: 0.0 Closing: 230.0 Score: 0.0 Wait: 0.0 Max Shift: 11.751543268683434 Shift: 38.06811684381765 Ratio: 0.0 Arrival: 218.24845673131657 Start: 218.24845673131657 Leave: 218.24845673131657 X: 35.0 Y: 35.0 Stay Duration: 0.0Cluster :0

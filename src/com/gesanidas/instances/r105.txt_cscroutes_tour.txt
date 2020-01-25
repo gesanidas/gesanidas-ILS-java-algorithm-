@@ -1,0 +1,12 @@
+
+Tour 0
+ID: 0 Name: Start Opening: 0.0 Closing: 230.0 Score: 0.0 Wait: 0.0 Max Shift: 30.149753374522888 Shift: 0.0 Ratio: 0.0 Arrival: 0.0 Start: 0.0 Leave: 0.0 X: 35.0 Y: 35.0 Stay Duration: 0.0Cluster :0
+ID: 27 Name: Loc27 Opening: 27.0 Closing: 57.0 Score: 16.0 Wait: 22.0 Max Shift: 8.149753374522888 Shift: 32.120430560124376 Ratio: 0.12453133193568595 Arrival: 5.0 Start: 27.0 Leave: 37.0 X: 35.0 Y: 40.0 Stay Duration: 10.0Cluster :0
+ID: 31 Name: Loc31 Opening: 40.0 Closing: 70.0 Score: 27.0 Wait: 0.0 Max Shift: 8.149753374522888 Shift: 14.075177091377508 Ratio: 0.3691713709158096 Arrival: 49.64911064067352 Start: 49.64911064067352 Leave: 59.64911064067352 X: 31.0 Y: 52.0 Stay Duration: 10.0Cluster :6
+ID: 30 Name: Loc30 Opening: 61.0 Closing: 91.0 Score: 21.0 Wait: 35.504902432036076 Max Shift: 9.737723906241484 Shift: 0.0 Ratio: 0.22613982082810236 Arrival: 25.495097567963924 Start: 61.0 Leave: 71.0 X: 40.0 Y: 60.0 Stay Duration: 10.0Cluster :8
+ID: 79 Name: Loc79 Opening: 82.0 Closing: 112.0 Score: 23.0 Wait: 0.0 Max Shift: 9.737723906241484 Shift: 13.46327961993406 Ratio: 0.3562156962269352 Arrival: 91.80865204668481 Start: 91.80865204668481 Leave: 101.80865204668481 X: 57.0 Y: 48.0 Stay Duration: 10.0Cluster :2
+ID: 54 Name: Loc54 Opening: 130.0 Closing: 160.0 Score: 18.0 Wait: 9.191347953315187 Max Shift: 0.5463759529262973 Shift: 38.14424385750636 Ratio: 0.111226236466197 Arrival: 120.80865204668481 Start: 130.0 Leave: 140.0 X: 57.0 Y: 29.0 Stay Duration: 10.0Cluster :2
+ID: 68 Name: Loc68 Opening: 132.0 Closing: 162.0 Score: 36.0 Wait: 0.0 Max Shift: 0.5463759529262973 Shift: 0.0 Ratio: 0.24435911566338372 Arrival: 150.0498756211209 Start: 150.0498756211209 Leave: 160.0498756211209 X: 56.0 Y: 39.0 Stay Duration: 10.0Cluster :2
+ID: 89 Name: Loc89 Opening: 166.0 Closing: 196.0 Score: 15.0 Wait: 0.0 Max Shift: 0.5463759529262973 Shift: 6.265491900843145 Ratio: 0.09774689621301776 Arrival: 190.315367521964 Start: 190.315367521964 Leave: 196.0 X: 26.0 Y: 35.0 Stay Duration: 10.0Cluster :0
+ID: 58 Name: Loc58 Opening: 180.0 Closing: 210.0 Score: 18.0 Wait: 0.0 Max Shift: 0.5463759529262973 Shift: 6.265491900843145 Ratio: 0.18046871536330905 Arrival: 209.4536240470737 Start: 209.4536240470737 Leave: 210.0 X: 36.0 Y: 26.0 Stay Duration: 10.0Cluster :0
+ID: 101 Name: End Opening: 0.0 Closing: 230.0 Score: 0.0 Wait: 0.0 Max Shift: 10.94461486186259 Shift: 6.265491900843145 Ratio: 0.0 Arrival: 219.0553851381374 Start: 219.0553851381374 Leave: 219.0553851381374 X: 35.0 Y: 35.0 Stay Duration: 0.0Cluster :0
